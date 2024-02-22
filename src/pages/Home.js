@@ -121,7 +121,7 @@ const Home = () => {
 					<ColorWord color="grey">
 						built with - react-reveal slide up animation , styled using
 						styled-components and the font family, 'ibm plex mono' from google
-						fonts. you're welcome to checkout{" "}
+						fonts.
 						{/* <ColorWord color="green">
 							<a
 								href="https://github.com/Jcolejeff/portfolio"
